@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6870d73-54ef-4acd-bb2f-d78e82a9a1d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_Harlech.html" afterPath="$PROJECT_DIR$/html/article_Harlech.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_alnwick.html" afterPath="$PROJECT_DIR$/html/article_alnwick.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_cardiff.html" afterPath="$PROJECT_DIR$/html/article_cardiff.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_inver.html" afterPath="$PROJECT_DIR$/html/article_inver.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_sterling.html" afterPath="$PROJECT_DIR$/html/article_sterling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/article_uorvik.html" afterPath="$PROJECT_DIR$/html/article_uorvik.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contacts.html" afterPath="$PROJECT_DIR$/html/contacts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="new.iws" />
@@ -63,8 +56,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.8745247">
-              <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.76299113">
+              <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -617,8 +610,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8745247">
-          <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.76299113">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
           <folding />
         </state>
       </provider>
